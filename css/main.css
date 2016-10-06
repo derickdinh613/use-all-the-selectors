@@ -33,6 +33,9 @@ strong + .dfn {
 html body header nav ul li mark {
   background-color: #719e07;
 }
+li:first-child {
+  color: #719e47;
+}
 
 a[rel="external"] {
   background-color: #2694d8;
